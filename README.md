@@ -37,5 +37,4 @@ Prerequisite required :
       
 OUTPUT: 
 
-      
-    ![result](https://user-images.githubusercontent.com/59726935/225632001-ad31accc-5ab8-4286-a6ed-3d895b31ea0f.PNG)
+![result](https://user-images.githubusercontent.com/59726935/225815466-3ce55755-bc7c-41cf-b300-81ee23c1c2c9.PNG)
